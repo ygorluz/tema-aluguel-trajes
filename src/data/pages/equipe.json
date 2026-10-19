@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "title": "Nossa equipe — Alfaiataria SP",
+    "description": "Consultores de estilo e alfaiates especializados em aluguel de terno em São Paulo. Conheça o time da Alfaiataria SP."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Nossa equipe",
+      "title": "Quem cuida do seu look do início ao fim.",
+      "lead": "Profissionais que orientam a escolha, medem e ajustam cada traje para o seu corpo.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Equipe", "href": "/equipe" } ]
+    }},
+    { "type": "equipe", "props": {
+      "members": [
+        { "name": "Carlos Mendes", "role": "Consultoria de estilo", "photo": "/images/team-1.jpg" },
+        { "name": "Rafael Souza", "role": "Alfaiataria e ajuste", "photo": "/images/team-2.jpg" },
+        { "name": "Lucas Ferreira", "role": "Atendimento e reserva", "photo": "/images/team-3.jpg" },
+        { "name": "André Lima", "role": "Provador e caimento final", "photo": "/images/team-4.jpg" }
+      ]
+    }},
+    { "type": "numeros", "props": {
+      "stats": [
+        { "value": "15+", "label": "Anos de alfaiataria" },
+        { "value": "8mil+", "label": "Looks entregues" },
+        { "value": "4", "label": "Alfaiates na equipe" },
+        { "value": "98%", "label": "Clientes satisfeitos" }
+      ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Fale com a gente",
+      "title": "Reserve o seu traje sem compromisso.",
+      "services": ["Terno para casamento", "Terno para noivo", "Terno para padrinhos", "Terno para formatura", "Smoking", "Fraque", "Meio fraque", "Terno slim", "Terno infantil"]
+    }}
+  ]
+}

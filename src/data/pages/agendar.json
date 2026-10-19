@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Reserve seu terno — Alfaiataria SP",
+    "description": "Reserve um terno, smoking ou fraque na Alfaiataria SP. Marque a prova e garanta o traje certo para o seu casamento, formatura ou evento em São Paulo."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Reserve seu terno",
+      "title": "Reserva e prova em três etapas simples.",
+      "lead": "Informe o traje e a data do evento — a gente marca a sua prova.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Reserva", "href": "/agendar" } ]
+    }},
+    { "type": "comoFunciona", "props": {
+      "eyebrow": "Como funciona",
+      "title": "Três passos da escolha à retirada.",
+      "steps": [
+        { "n": "01", "title": "Escolha e prova", "text": "Marque a prova e escolha o modelo, a cor e os acessórios." },
+        { "n": "02", "title": "Ajuste", "text": "Nosso alfaiate ajusta o traje ao seu corpo." },
+        { "n": "03", "title": "Retirada", "text": "Retire a peça pronta e devolva depois do evento." }
+      ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Reserve agora",
+      "title": "Preencha e garanta o seu traje.",
+      "services": ["Terno para casamento", "Terno para noivo", "Terno para padrinhos", "Terno para formatura", "Smoking", "Fraque", "Meio fraque", "Terno slim", "Terno infantil"]
+    }}
+  ]
+}

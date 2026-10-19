@@ -1,0 +1,18 @@
+{
+  "hero": {
+    "title": "Alfaiataria de confiança para alugar o seu terno em São Paulo",
+    "desc": "Somos uma alfaiataria especializada em aluguel de trajes masculinos, atendendo noivos, padrinhos e formandos em toda São Paulo. Trabalhamos com ternos, smoking, fraque e meio fraque — sempre com prova marcada, ajuste de alfaiataria incluso e atendimento próximo do começo ao fim.",
+    "image": "/images/about.jpg"
+  },
+  "content": {
+    "missionTitle": "Nosso compromisso",
+    "missionText": "Acreditamos que um terno alugado tem que vestir como se fosse seu. Por isso medimos cada cliente na prova, ajustamos mangas, barra e cintura e entregamos a peça passada e pronta para usar.\n\nTratamos o seu evento com o cuidado que ele merece, do primeiro atendimento à devolução, sem letra miúda e com preço fechado.",
+    "teamTitle": "Quem cuida do seu look",
+    "teamText": "Por trás de cada look existe uma equipe que orienta a escolha, mede, ajusta e confere o caimento. É esse cuidado que garante o encaixe perfeito e a foto que você vai guardar para sempre."
+  },
+  "seo": {
+    "title": "",
+    "description": "",
+    "image": ""
+  }
+}

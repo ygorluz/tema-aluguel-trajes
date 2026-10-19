@@ -1,0 +1,276 @@
+{
+  "blocks": [
+    {
+      "type": "hero",
+      "props": {
+        "eyebrow": "Aluguel de terno em São Paulo",
+        "title": "O terno certo para o seu grande dia, com caimento sob medida.",
+        "lead": "Ternos, smoking, fraque e meio fraque para casamento, formatura e eventos. Prova marcada, ajuste de alfaiataria incluso e devolução sem complicação.",
+        "cta": {
+          "label": "Reservar terno",
+          "href": "#contato"
+        },
+        "rating": {
+          "score": "5,0",
+          "count": "230+ avaliações"
+        },
+        "doctor": {
+          "name": "Atendimento de alfaiataria",
+          "role": "Prova e ajuste",
+          "photo": "/images/doctor.jpg"
+        },
+        "contact": {
+          "phone": "(11) 0000-0000",
+          "hours": "Seg a Sex, 9h às 19h • Sáb até 15h"
+        }
+      }
+    },
+    {
+      "type": "sobre",
+      "props": {
+        "image": "/images/about.jpg",
+        "badge": "+15 anos vestindo noivos e padrinhos em SP",
+        "eyebrow": "Sobre a alfaiataria",
+        "title": "Aluguel de terno com prova marcada e ajuste de verdade.",
+        "lead": "Cuidamos de cada etapa: você escolhe o modelo, faz a prova com hora marcada e retira a peça já ajustada por alfaiate da casa.",
+        "benefits": [
+          "Ajuste de alfaiataria incluído no aluguel",
+          "Ternos, smoking, fraque e meio fraque",
+          "Acessórios para alugar junto: gravata, colete e sapato",
+          "Devolução sem precisar lavar a peça"
+        ],
+        "cta": {
+          "label": "Conheça a alfaiataria",
+          "href": "/sobre"
+        }
+      }
+    },
+    {
+      "type": "servicos",
+      "props": {
+        "eyebrow": "Para cada ocasião",
+        "title": "O traje certo para casamento, formatura e eventos.",
+        "items": [
+          {
+            "title": "Terno para casamento",
+            "text": "Noivo e padrinhos com look alinhado e ajuste sob medida."
+          },
+          {
+            "title": "Smoking",
+            "text": "Traje black tie para festas à noite e premiações."
+          },
+          {
+            "title": "Terno para formatura",
+            "text": "Visual moderno para a colação e o baile de formatura."
+          },
+          {
+            "title": "Fraque e meio fraque",
+            "text": "Trajes cerimoniosos para casamentos de dia e fim de tarde."
+          }
+        ],
+        "cta": {
+          "label": "Ver todos os trajes",
+          "href": "/servicos"
+        }
+      }
+    },
+    {
+      "type": "numeros",
+      "props": {
+        "stats": [
+          {
+            "value": "15+",
+            "label": "Anos de alfaiataria"
+          },
+          {
+            "value": "8mil+",
+            "label": "Looks entregues"
+          },
+          {
+            "value": "48h",
+            "label": "Para ajuste e prova final"
+          },
+          {
+            "value": "98%",
+            "label": "Clientes satisfeitos"
+          }
+        ]
+      }
+    },
+    {
+      "type": "porqueEscolher",
+      "props": {
+        "eyebrow": "Por que alugar com a gente",
+        "title": "Um traje alugado que veste como se fosse seu.",
+        "image": "/images/why.jpg",
+        "features": [
+          {
+            "title": "Ajuste por alfaiate",
+            "text": "Mangas, barra e cintura no ponto certo do seu corpo."
+          },
+          {
+            "title": "Prova com hora marcada",
+            "text": "Você escolhe o modelo com calma e sem fila."
+          },
+          {
+            "title": "Look completo",
+            "text": "Camisa, colete, gravata e sapato no mesmo lugar."
+          },
+          {
+            "title": "Padronização de grupo",
+            "text": "Padrinhos e turmas com o mesmo modelo e cor."
+          },
+          {
+            "title": "Devolução simples",
+            "text": "Devolva sem lavar — a higienização é por nossa conta."
+          },
+          {
+            "title": "Preço transparente",
+            "text": "Valor fechado, com ajuste incluído no aluguel."
+          }
+        ]
+      }
+    },
+    {
+      "type": "comoFunciona",
+      "props": {
+        "eyebrow": "Como funciona",
+        "title": "Três passos da escolha à retirada.",
+        "steps": [
+          {
+            "n": "01",
+            "title": "Escolha e prova",
+            "text": "Marque a prova e escolha o modelo, a cor e os acessórios."
+          },
+          {
+            "n": "02",
+            "title": "Ajuste",
+            "text": "Nosso alfaiate ajusta o traje ao seu corpo."
+          },
+          {
+            "n": "03",
+            "title": "Retirada",
+            "text": "Retire a peça pronta e devolva depois do evento."
+          }
+        ]
+      }
+    },
+    {
+      "type": "equipe",
+      "props": {
+        "eyebrow": "Nossa equipe",
+        "title": "Quem cuida do seu look do início ao fim.",
+        "members": [
+          {
+            "name": "Consultoria de estilo",
+            "role": "Escolha do traje",
+            "photo": "/images/team-1.jpg"
+          },
+          {
+            "name": "Alfaiataria",
+            "role": "Medição e ajuste",
+            "photo": "/images/team-2.jpg"
+          },
+          {
+            "name": "Atendimento",
+            "role": "Reserva e prova",
+            "photo": "/images/team-3.jpg"
+          },
+          {
+            "name": "Provador",
+            "role": "Caimento final",
+            "photo": "/images/team-4.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "depoimentos",
+      "props": {
+        "eyebrow": "Depoimentos",
+        "title": "O que nossos clientes dizem.",
+        "rating": {
+          "score": "4,9",
+          "label": "média de avaliações"
+        },
+        "items": [
+          {
+            "quote": "Aluguei o terno do meu casamento e o ajuste ficou perfeito. Ninguém imaginou que era alugado.",
+            "name": "Rafael M.",
+            "role": "Moema"
+          },
+          {
+            "quote": "Vestiram todos os padrinhos no mesmo modelo, ficou impecável nas fotos.",
+            "name": "Bruno A.",
+            "role": "Tatuapé"
+          },
+          {
+            "quote": "Smoking lindo para a formatura, com prova rápida e tudo no prazo.",
+            "name": "Lucas P.",
+            "role": "Pinheiros"
+          }
+        ]
+      }
+    },
+    {
+      "type": "antesDepois",
+      "props": {
+        "eyebrow": "Antes e depois",
+        "title": "Do casual ao look montado.",
+        "items": [
+          {
+            "label": "Look de noivo",
+            "before": "/images/before-1.jpg",
+            "after": "/images/after-1.jpg"
+          },
+          {
+            "label": "Look de smoking",
+            "before": "/images/before-2.jpg",
+            "after": "/images/after-2.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "novidades",
+      "props": {
+        "eyebrow": "Novidades",
+        "title": "Dicas para escolher o traje certo.",
+        "items": [
+          {
+            "title": "Terno ou smoking: qual usar no casamento",
+            "excerpt": "Como decidir pelo horário e estilo da festa.",
+            "image": "/images/post-1.jpg",
+            "href": "#"
+          },
+          {
+            "title": "Como combinar gravata, colete e lenço",
+            "excerpt": "Os acessórios que elevam o seu look.",
+            "image": "/images/post-2.jpg",
+            "href": "#"
+          },
+          {
+            "title": "Padrinhos alinhados: como padronizar o grupo",
+            "excerpt": "Mesmo modelo e cor para fotos harmônicas.",
+            "image": "/images/post-3.jpg",
+            "href": "#"
+          }
+        ]
+      }
+    },
+    {
+      "type": "ctaContato",
+      "props": {
+        "eyebrow": "Fale com a gente",
+        "title": "Reserve o seu terno e marque a prova sem compromisso.",
+        "services": [
+          "Terno para casamento",
+          "Terno para noivo",
+          "Terno para padrinhos",
+          "Smoking",
+          "Terno para formatura"
+        ]
+      }
+    }
+  ]
+}

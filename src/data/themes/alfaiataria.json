@@ -1,0 +1,17 @@
+{
+  "name": "Alfaiataria",
+  "colors": {
+    "bg": "#FFFFFF",
+    "surface": "#FFFFFF",
+    "soft": "#F5F2EC",
+    "ink": "#1C1B19",
+    "ink-muted": "#5C564E",
+    "primary": "#16222E",
+    "secondary": "#2E4456",
+    "accent": "#A6803F",
+    "accent-ink": "#1A130A",
+    "accent-strong": "#7A5A24",
+    "border": "#E7E0D4"
+  },
+  "fonts": { "display": "'Poppins', sans-serif", "body": "'Poppins', sans-serif" }
+}

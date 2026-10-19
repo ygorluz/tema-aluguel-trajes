@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "title": "Trajes para alugar — Alfaiataria SP",
+    "description": "Aluguel de terno, smoking, fraque e meio fraque em São Paulo para casamento, formatura e eventos. Veja todos os trajes, com prova marcada e ajuste de alfaiataria."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Nossos trajes",
+      "title": "O traje certo para cada ocasião.",
+      "lead": "Do casamento à formatura, do terno slim ao smoking — escolha o look e deixe o ajuste com a gente.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Trajes", "href": "/servicos" } ]
+    }},
+    { "type": "servicos", "props": {
+      "fromData": true,
+      "cta": { "label": "Reservar terno", "href": "/agendar" }
+    }},
+    { "type": "porqueEscolher", "props": {
+      "eyebrow": "Por que alugar com a gente",
+      "title": "Um traje alugado que veste como se fosse seu.",
+      "image": "/images/why.jpg",
+      "features": [
+        { "title": "Ajuste por alfaiate", "text": "Mangas, barra e cintura no ponto do seu corpo." },
+        { "title": "Prova com hora marcada", "text": "Você escolhe o look com calma, sem fila." },
+        { "title": "Look completo", "text": "Camisa, colete, gravata e sapato no mesmo lugar." },
+        { "title": "Padronização de grupo", "text": "Padrinhos e turmas com o mesmo modelo." },
+        { "title": "Devolução simples", "text": "Devolva sem lavar — a higienização é por nossa conta." },
+        { "title": "Preço transparente", "text": "Valor fechado, com ajuste incluído." }
+      ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Fale com a gente",
+      "title": "Reserve o seu traje sem compromisso.",
+      "services": ["Terno para casamento", "Terno para noivo", "Terno para padrinhos", "Terno para formatura", "Smoking", "Fraque", "Meio fraque", "Terno slim", "Terno infantil"]
+    }}
+  ]
+}

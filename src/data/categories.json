@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Casamento",
+    "slug": "casamento"
+  },
+  {
+    "name": "Trajes e estilo",
+    "slug": "trajes-e-estilo"
+  },
+  {
+    "name": "Acessórios",
+    "slug": "acessorios"
+  },
+  {
+    "name": "Formatura",
+    "slug": "formatura"
+  },
+  {
+    "name": "Dicas de aluguel",
+    "slug": "dicas-de-aluguel"
+  }
+]

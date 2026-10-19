@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "title": "Sobre a Alfaiataria SP",
+    "description": "Mais de 15 anos vestindo noivos, padrinhos e formandos em São Paulo com aluguel de terno e ajuste de alfaiataria. Conheça a nossa história."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Sobre a alfaiataria",
+      "title": "Aluguel de terno com quem entende de caimento.",
+      "lead": "Mais de uma década vestindo casamentos, formaturas e eventos em São Paulo.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Sobre", "href": "/sobre" } ]
+    }},
+    { "type": "sobre", "props": {
+      "image": "/images/about.jpg",
+      "badge": "15+ anos de alfaiataria",
+      "title": "Aluguel de terno com quem entende de caimento.",
+      "lead": "Atendemos do noivo ao formando, sempre com prova marcada, ajuste de alfaiataria e atendimento próximo.",
+      "benefits": [
+        "Alfaiates experientes na casa",
+        "Terno, smoking, fraque e meio fraque",
+        "Acessórios para alugar junto",
+        "Devolução sem precisar lavar a peça"
+      ],
+      "cta": { "label": "Reservar terno", "href": "#contato" }
+    }},
+    { "type": "numeros", "props": {
+      "stats": [
+        { "value": "15+", "label": "Anos de alfaiataria" },
+        { "value": "8mil+", "label": "Looks entregues" },
+        { "value": "4", "label": "Alfaiates na equipe" },
+        { "value": "98%", "label": "Clientes satisfeitos" }
+      ]
+    }},
+    { "type": "comoFunciona", "props": {
+      "eyebrow": "Como funciona",
+      "title": "Três passos da escolha à retirada.",
+      "steps": [
+        { "n": "01", "title": "Escolha e prova", "text": "Marque a prova e escolha o modelo, a cor e os acessórios." },
+        { "n": "02", "title": "Ajuste", "text": "Nosso alfaiate ajusta o traje ao seu corpo." },
+        { "n": "03", "title": "Retirada", "text": "Retire a peça pronta e devolva depois do evento." }
+      ]
+    }},
+    { "type": "depoimentos", "props": {
+      "eyebrow": "Depoimentos",
+      "title": "O que nossos clientes dizem.",
+      "rating": { "score": "4,9", "label": "média de satisfação" },
+      "items": [
+        { "quote": "Aluguei o terno do meu casamento e o ajuste ficou perfeito. Ninguém imaginou que era alugado.", "name": "Rafael M.", "role": "Cliente — Moema" },
+        { "quote": "Vestiram todos os padrinhos no mesmo modelo, ficou impecável nas fotos.", "name": "Bruno A.", "role": "Cliente — Tatuapé" },
+        { "quote": "Smoking lindo para a formatura, com prova rápida e tudo no prazo.", "name": "Lucas P.", "role": "Cliente — Pinheiros" }
+      ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Fale com a gente",
+      "title": "Reserve o seu traje sem compromisso.",
+      "services": ["Terno para casamento", "Terno para noivo", "Terno para padrinhos", "Terno para formatura", "Smoking", "Fraque", "Meio fraque", "Terno slim", "Terno infantil"]
+    }}
+  ]
+}

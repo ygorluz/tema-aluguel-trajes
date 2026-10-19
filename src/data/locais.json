@@ -1,0 +1,112 @@
+[
+  {
+    "slug": "moema",
+    "nome": "Moema",
+    "prep": "em",
+    "regiao": "Zona Sul de São Paulo",
+    "bairrosVizinhos": [
+      "Vila Mariana",
+      "Ibirapuera",
+      "Campo Belo"
+    ],
+    "referenciaLocal": "Atendemos Moema e toda a Zona Sul, de quem casa nas capelas e buffets da região aos formandos dos colégios da Av. Ibirapuera. Prova marcada com hora e ajuste de alfaiataria incluso.",
+    "faq": [
+      {
+        "q": "Vocês alugam terno para casamento em Moema?",
+        "a": "Sim. Atendemos noivos e padrinhos de casamentos em Moema e na Zona Sul, com prova marcada e ajuste final feito por alfaiate da casa."
+      },
+      {
+        "q": "Dá para reservar o terno em cima da hora?",
+        "a": "Quando há disponibilidade do modelo no seu tamanho, sim. Para datas concorridas em Moema, o ideal é reservar com duas a três semanas de antecedência."
+      }
+    ]
+  },
+  {
+    "slug": "tatuape",
+    "nome": "Tatuapé",
+    "prep": "no",
+    "regiao": "Zona Leste de São Paulo",
+    "bairrosVizinhos": [
+      "Anália Franco",
+      "Vila Formosa",
+      "Mooca"
+    ],
+    "referenciaLocal": "Atendemos o Tatuapé e a Zona Leste, dos salões de festa da Anália Franco às formaturas das faculdades da região. Aluguel de terno, smoking e fraque com prova sem compromisso.",
+    "faq": [
+      {
+        "q": "Atendem padrinhos em grupo no Tatuapé?",
+        "a": "Sim. Montamos o look de grupos de padrinhos com o mesmo modelo e padronização de cor, com prova marcada para cada um no Tatuapé."
+      },
+      {
+        "q": "Tem terno para formatura na Zona Leste?",
+        "a": "Tem. Trabalhamos com ternos e smokings para formandos das faculdades da região, com ajuste incluído no aluguel."
+      }
+    ]
+  },
+  {
+    "slug": "santana",
+    "nome": "Santana",
+    "prep": "em",
+    "regiao": "Zona Norte de São Paulo",
+    "bairrosVizinhos": [
+      "Casa Verde",
+      "Mandaqui",
+      "Tucuruvi"
+    ],
+    "referenciaLocal": "Levamos o aluguel de terno a Santana e à Zona Norte, atendendo casamentos nas igrejas do bairro e eventos no entorno do Anhembi. Prova com hora marcada e devolução simples.",
+    "faq": [
+      {
+        "q": "Vocês alugam smoking para eventos em Santana?",
+        "a": "Sim. Temos smoking e meio fraque para casamentos à noite e eventos black tie em Santana, com gravata, colete e acessórios para alugar junto."
+      },
+      {
+        "q": "Como funciona a devolução do terno?",
+        "a": "A devolução é feita na loja após o evento, sem necessidade de lavar a peça — a higienização fica por nossa conta."
+      }
+    ]
+  },
+  {
+    "slug": "pinheiros",
+    "nome": "Pinheiros",
+    "prep": "em",
+    "regiao": "Zona Oeste de São Paulo",
+    "bairrosVizinhos": [
+      "Vila Madalena",
+      "Itaim Bibi",
+      "Jardim Paulistano"
+    ],
+    "referenciaLocal": "Atendemos Pinheiros e a Zona Oeste, de casamentos nos espaços da Vila Madalena a eventos corporativos do Itaim. Aluguel de terno slim, smoking e fraque com ajuste de alfaiataria.",
+    "faq": [
+      {
+        "q": "Tem terno slim para alugar em Pinheiros?",
+        "a": "Tem. O corte slim é um dos mais pedidos em Pinheiros e na Zona Oeste, disponível em vários tons e com ajuste fino na prova."
+      },
+      {
+        "q": "Alugam traje para evento corporativo?",
+        "a": "Sim. Para premiações, jantares e eventos de empresa no Itaim e em Pinheiros, indicamos o terno ou o smoking conforme o dress code."
+      }
+    ]
+  },
+  {
+    "slug": "centro",
+    "nome": "Centro",
+    "prep": "no",
+    "regiao": "Centro de São Paulo",
+    "bairrosVizinhos": [
+      "República",
+      "Sé",
+      "Santa Cecília"
+    ],
+    "referenciaLocal": "No Centro de São Paulo atendemos quem busca praticidade e fácil acesso por metrô e ônibus. Aluguel de terno para casamento, formatura e entrevistas, com prova rápida e ajuste no mesmo dia quando possível.",
+    "faq": [
+      {
+        "q": "A loja do Centro tem fácil acesso por metrô?",
+        "a": "Sim. Nosso atendimento no Centro foi pensado para quem chega de metrô ou ônibus, com prova rápida e horário flexível."
+      },
+      {
+        "q": "Consigo alugar um terno só para uma entrevista?",
+        "a": "Consegue. Além de eventos, alugamos ternos para entrevistas e ocasiões pontuais, com diária e ajuste incluídos."
+      }
+    ]
+  }
+]

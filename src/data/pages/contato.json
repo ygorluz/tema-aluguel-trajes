@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Contato — Alfaiataria SP",
+    "description": "Fale com a Alfaiataria SP: WhatsApp, e-mail e atendimento em São Paulo. Reserve um terno ou marque a prova para o seu evento."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Fale com a gente",
+      "title": "Estamos prontos para vestir você.",
+      "lead": "Mande mensagem, ligue ou passe pelo atendimento — reserva e prova rápidas e sem compromisso.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Contato", "href": "/contato" } ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Envie uma mensagem",
+      "title": "Conte a data do evento e o traje que precisa.",
+      "services": ["Terno para casamento", "Terno para noivo", "Terno para padrinhos", "Terno para formatura", "Smoking", "Fraque", "Meio fraque", "Terno slim", "Terno infantil"]
+    }}
+  ]
+}

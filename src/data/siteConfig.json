@@ -1,0 +1,25 @@
+{
+  "name": "Alfaiataria SP",
+  "segmento": "Aluguel de terno",
+  "schemaType": "ClothingStore",
+  "postUrlPrefix": "",
+  "description": "Aluguel de terno em São Paulo: ternos, smoking, fraque e meio fraque sob medida para casamento, formatura e eventos. Prova marcada, ajuste de alfaiataria e entrega no prazo. Reserve o seu look.",
+  "ctaLabel": "Reservar terno",
+  "phone": "(11) 0000-0000",
+  "whatsapp": "5511000000000",
+  "email": "contato@alfaiatariasp.com.br",
+  "address": "São Paulo, SP",
+  "hours": "Seg a Sex, 9h às 19h • Sáb, 9h às 15h",
+  "social": { "instagram": "#", "facebook": "#", "youtube": "#" },
+  "nap": {
+    "streetAddress": "Rua Exemplo, 000 — loja 00",
+    "addressLocality": "São Paulo",
+    "addressRegion": "SP",
+    "postalCode": "01000-000",
+    "country": "BR",
+    "latitude": -23.5614,
+    "longitude": -46.6559,
+    "priceRange": "$$",
+    "mapEmbed": "https://www.google.com/maps?q=S%C3%A3o+Paulo+SP&output=embed"
+  }
+}
